@@ -78,13 +78,32 @@ $collection = $client->e_learning->activities;
 //     ",
 //     'activity_id' => '9'
 // ]);
+// $query = $collection->insertOne([
+//     'text' => "When creating the application, a series of technologies are needed in order to reach the goal. In the following section, we will look into some of the technologies used and how to set up the databases.
 
-
-
-
-
-
-
+//     MAMP
+//     MAMP is a free to use local server environment that can be installed on your computer. MAMP is a great tool for developing web applications. When installed you get a local apache server, a series of php versions, mySQL and phpmyadmin.
+    
+//     PhpMyAdmin
+//     PhpMyAdmin is a RDBMS (Relational DataBase Management System) used to handle the MySQL database used in the application. Inside phpMyAdmin you can perform queries on the database, create tables and data, read, update and delete tables and data (CRUD).
+//     ",
+//     'activity_id' => '10'
+// ]);
+// $query = $collection->insertOne([
+//     'text' => "PHP
+//     PHP is a server side scripting language. In the application, PHP is used to prepare queries and connect to databases used. 
+    
+//     Installing MongoDB 
+    
+//     First off all, in order to install mongoDB on your MacOS you first need some tools in order.
+//     When looking at the official MongoDB documentation a series of steps are presented. First step is to install Xcode command-line tools for your system, Xcode is Apple's integrated development environment (IDE) for macOS that is used to develop software.
+//     This is a quite simple process that can be done in the terminal. simply by running the following command, Xcode will be installed on the machine and you will be ready to proceed.
+    
+//     Step two in the process is to install Homebrew. Homebrew is, as they say themselves, “The missing package manager for macOS” Like any other package manager Homebrew helps provide the necessary tools needed in order to develop software. In this case Homebrew is needed to install the mongoDB environment (Mongo server, cluster and the mongo shell)
+//     By running the following commands, everything will be set up and running. It is even possible to now open up MongoDB compass which is  MongoDBs Graphical User Interface (GUI) to work with, query and analyze the database.
+//     ",
+//     'activity_id' => '11'
+// ]);
 
 
 // $comment = $db->find();

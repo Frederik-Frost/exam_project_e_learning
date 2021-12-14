@@ -28,7 +28,6 @@ CREATE TABLE user_topics (
 	completed BOOLEAN DEFAULT false
 );
 
-
 CREATE TABLE activity_logs (
 	activity_id integer,
 	old_activity_name varchar(255),

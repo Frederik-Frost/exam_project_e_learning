@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "61b689c2ebf6961a93610102"
+  },
+  "topic_id": "2",
+  "user_name": " ",
+  "comment": "Woow this topic really helped me understand normalization!"
+},{
+  "_id": {
+    "$oid": "61b68c88f48f9bbbff690d42"
+  },
+  "topic_id": "2",
+  "user_name": " ",
+  "comment": "This topic is AMAZING!"
+},{
+  "_id": {
+    "$oid": "61b6910481ec8e255f74fbc2"
+  },
+  "topic_id": "2",
+  "user_name": "Frederik Frost",
+  "comment": "I didnt like this topic..."
+},{
+  "_id": {
+    "$oid": "61b69120acaabd6a921a7cc2"
+  },
+  "topic_id": "2",
+  "user_name": "Frederik Frost",
+  "comment": "Woow this topic really helped me understand normalization!\n\n"
+},{
+  "_id": {
+    "$oid": "61b691260c75353a0e267a32"
+  },
+  "topic_id": "2",
+  "user_name": "Frederik Frost",
+  "comment": "This topic is AMAZING!\n\n"
+},{
+  "_id": {
+    "$oid": "61b8b25bbde7f010a100e126"
+  },
+  "topic_id": "1",
+  "user_name": "Frederik Frost",
+  "comment": "Now i finally understsand the difference between sql and nosql"
+},{
+  "_id": {
+    "$oid": "61b8b2a1d2099ab4ff770073"
+  },
+  "topic_id": "1",
+  "user_name": "Johnny Boy",
+  "comment": "Wow can wait to read more!"
+}]
